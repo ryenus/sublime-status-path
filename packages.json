@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+  {
+    "name": "StatusPath",
+    "description": "Show current file path in status bar.",
+    "author": "ryenus",
+    "homepage": "https://github.com/ryenus/sublime-status-path/",
+    "last_modified": "2015-06-26 02:00:00",
+    "platforms": {
+      "*": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/ryenus/sublime-status-path/archive/master.zip"
+        }
+      ]
+    }
+  }
+  ]
+}
