@@ -1,6 +1,7 @@
 import sublime, sublime_plugin, os
 
 class StatusPath(sublime_plugin.EventListener):
+  
   def on_activated_async(self, view):
     # print('on_activated_async', view.file_name())ß
     # filename = os.path.split(view.file_name())[1]
