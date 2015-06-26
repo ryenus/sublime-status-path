@@ -1,8 +1,13 @@
-ShowFilenameStatus Plugin
-=========================
+Sublime Status Path Plugin
+==========================
 
-A sublime text 2 plugin for showing the current active filename in the status bar. Useful when working in full screen mode.
+A sublime text 3 plugin for showing the current active file path in the status bar. Useful when working in full screen mode.
 
-# Installation
+### Installation
 
-Copy the ShowFileNameStatus.py file into your ST3 Packages/User directory.
+Copy the StatusPath.py file into your Packages/User directory.
+
+
+### Thanks
+
+This is obviously based on Shyam's work, he deserves his credit.
