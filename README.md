@@ -6,6 +6,7 @@ A sublime text 3 plugin for showing the current active file path in the status b
 Fow now, just copy [StatusPath.py][1] file into your Packages/User directory.
 
 ### Thanks
-This is obviously based on Shyam's work, he deserves his credit.
+This is obviously based on [Shyam's work][2], he deserves his credit.
 
 [1]: https://raw.githubusercontent.com/ryenus/sublime-status-path/master/StatusPath.py
+[2]: https://github.com/shyam-habarakada/sublime-showfilenamestatus
